@@ -1,0 +1,4 @@
+Argentina 1 0 0 Brasil 
+Mexico 0 0 1 Peru 
+Venezuela 1 0 0 Chile 
+Uruguay 0 1 0 Bolivia
